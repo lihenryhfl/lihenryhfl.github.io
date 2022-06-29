@@ -11,7 +11,7 @@ profile:
   address: >
     <p>Arthur K Watson Hall Room 101</p>
     <p>51 Prospect St</p>
-    <p>New Haven, CT 06520</p>
+    <p>New Haven, CT 06511</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
