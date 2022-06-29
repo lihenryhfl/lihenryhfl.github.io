@@ -31,7 +31,7 @@
   type: time_table
   contents:
     - title: CCM Summer Research Intern
-      institution: Yale University
+      institution: Flatiron Institute
       year: 2020
       description:
         - Explored deep image prior-based techniques for enhancing phase retrieval in low-photon settings at the Center for Computational Mathematics (CCM) at Flatiron Institute
