@@ -60,6 +60,18 @@
       description:
         - Designed and implemented an image segmentation method (combination of normalized cuts, convolutions, and modified watershed segmentation) to automatically label myofibrils in cardiovascular TEM imagery at human or above human accuracy
 
+#- title: Reviewing Responsibilities
+#  type: time_table
+#  contents:
+#    - title: ICML, NeurIPS, ICLR
+#      year: 2022
+#      description: ICML Outstanding Reviewer, ~top 10%
+#    - title: NeurIPS
+#      year: 2021
+#    - title: TMLR
+#      year: Rolling
+
+
 #- title: Open Source Projects
   #type: time_table
   #contents:
