@@ -13,52 +13,35 @@
   contents:
     - title: PhD in Applied Mathematics
       institution: Yale University
-      year: 2020-
+      year: 2025 (expected)
       description:
         - Advised by Ronald Coifman and Yuval Kluger.
-    - title: PhD in Computer Science
-      institution: UC San Diego
-      year: 2018-2020
-      description:
-        - Advised by Alex Cloninger. <STRONG> Transferred to Yale University. </STRONG>
     - title: B.S. in Computer Science and Mathematics
       institution: Yale University
-      year: 2013-2017
+      year: 2017
       #description:
         #- Description 1.
 
 - title: Experience
   type: time_table
   contents:
+    - title: Machine Learning Research Intern
+      institution: Bosch Center for Artificial Intelligence
+      year: 2023
+      description:
+        - Researching (1) robust training-free approaches to guided diffusion models using optimal control and (2) image-to-image translation using algebraically reversible solvers for the Schrodinger Bridge problem.
+
     - title: CCM Summer Research Intern
       institution: Flatiron Institute
       year: 2020
       description:
         - Explored deep image prior-based techniques for enhancing phase retrieval in low-photon settings at the Center for Computational Mathematics (CCM) at Flatiron Institute
 
-    - title: Summer Research Fellow
-      institution: Yale University
-      year: 2019
-      description:
-        - Studied under Alexander Cloninger, Yuval Kluger, and Ronald Coifman, investigating manifold-based machine learning techniques for manifold-valued data generation
-
-    - title: Research Fellow
-      institution: Yale University
-      year: 2017
-      description:
-        - Worked under Yuval Kluger at the Kluger Lab on mathematical tools for data visualization and machine learning
-
     - title: Software Engineering Intern
       institution: Amazon Lab126
       year: 2016
       description:
         - Modified machine learning module (an n-gram Markov model) in FireOS to reduce memory usage by ~2x with no significant reduction in prediction quality
-
-    - title: Moncrief Summer Research Fellow
-      institution: UT Austin
-      year: 2015
-      description:
-        - Designed and implemented an image segmentation method (combination of normalized cuts, convolutions, and modified watershed segmentation) to automatically label myofibrils in cardiovascular TEM imagery at human or above human accuracy
 
 #- title: Reviewing Responsibilities
 #  type: time_table
