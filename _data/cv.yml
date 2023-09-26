@@ -31,8 +31,8 @@
       description:
         - Researching (1) robust training-free approaches to guided diffusion models using optimal control and (2) image-to-image translation using algebraically reversible solvers for the Schrodinger Bridge problem.
 
-    - title: CCM Machine Learning Research Intern
-      institution: Flatiron Institute
+    - title: Machine Learning Research Intern
+      institution: Center for Computational Mathematics, Flatiron Institute
       year: 2020
       description:
         - Explored deep image prior-based techniques for enhancing phase retrieval in low-photon settings at the Center for Computational Mathematics (CCM) at Flatiron Institute
