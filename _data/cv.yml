@@ -29,7 +29,7 @@
       institution: Bosch Center for Artificial Intelligence
       year: 2023
       description:
-        - Researching (1) robust training-free approaches to guided diffusion models using optimal control and (2) image-to-image translation using algebraically reversible solvers for the Schrodinger Bridge problem.
+        - Researching (1) robust training-free approaches to guided diffusion models using optimal control and (2) image-to-image translation using algebraically reversible solvers for the Schrodinger Bridge problem. Submitted to ICML 2024.
 
     - title: Machine Learning Research Intern
       institution: Center for Computational Mathematics, Flatiron Institute
