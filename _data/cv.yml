@@ -11,14 +11,17 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Applied Mathematics
+    - title: Ph.D. in Applied Mathematics
       institution: Yale University
       year: 2025 (expected)
       description:
         - Advised by Ronald Coifman and Yuval Kluger.
+
+    - title: M.S. in Applied Mathematics
+      institution: Yale University
+        
     - title: B.S. in Computer Science and Mathematics
       institution: Yale University
-      year: 2017
       #description:
         #- Description 1.
 
@@ -26,10 +29,22 @@
   type: time_table
   contents:
     - title: Machine Learning Research Intern
+      institution: ByteDance
+      year: 2024
+      description:
+        - Probing the capabilities of diffusion-based early-fusion multi-modal generative models on the AI Seed-Vision Team. Mentors: Peng Wang and Linjie Yang.
+        
+    - title: Machine Learning Research Intern
+      institution: Elucid
+      year: 2024
+      description:
+        - Investigated the usage of multimodal foundation models to aid in generating and augmenting arterial CT imagery and segmentations for improved fractional flow reserve (FFR) analysis and cardiologist report generation.
+    
+    - title: Machine Learning Research Intern
       institution: Bosch Center for Artificial Intelligence
       year: 2023
       description:
-        - Researching (1) robust training-free approaches to guided diffusion models using optimal control and (2) image-to-image translation using algebraically reversible solvers for the Schrodinger Bridge problem. Submitted to ICML 2024.
+        - Conducted research on robust training-free approaches to guided diffusion models using optimal control. Published at NeurIPS 2024.
 
     - title: Machine Learning Research Intern
       institution: Center for Computational Mathematics, Flatiron Institute
