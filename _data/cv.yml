@@ -32,7 +32,7 @@
       institution: ByteDance
       year: 2024
       description:
-        - Probing the capabilities of diffusion-based early-fusion multi-modal generative models on the AI Seed-Vision Team. Mentors: Peng Wang and Linjie Yang.
+        - Probing the capabilities of diffusion-based early-fusion multi-modal generative models on the AI Seed-Vision Team. Mentors - Peng Wang and Linjie Yang.
         
     - title: Machine Learning Research Intern
       institution: Elucid
@@ -44,7 +44,7 @@
       institution: Bosch Center for Artificial Intelligence
       year: 2023
       description:
-        - Conducted research on robust training-free approaches to guided diffusion models using optimal control. Published at NeurIPS 2024.
+        - Conducted research on robust training-free approaches to guided diffusion models using optimal control. Published at NeurIPS 2024. Mentor - Marcus Pereira.
 
     - title: Machine Learning Research Intern
       institution: Center for Computational Mathematics, Flatiron Institute
