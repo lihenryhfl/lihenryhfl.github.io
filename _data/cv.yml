@@ -13,15 +13,17 @@
   contents:
     - title: Ph.D. in Applied Mathematics
       institution: Yale University
-      year: 2025 (expected)
+      # year: 2025 (expected)
       description:
         - Advised by Ronald Coifman and Yuval Kluger.
 
     - title: M.S. in Applied Mathematics
       institution: Yale University
+      # year: 2020
         
     - title: B.S. in Computer Science and Mathematics
       institution: Yale University
+      # year: 2017
       #description:
         #- Description 1.
 
