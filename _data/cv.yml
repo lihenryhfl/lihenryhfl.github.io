@@ -20,19 +20,19 @@
       institution: ByteDance
       year: 2024
       description:
-        - Probing the capabilities of diffusion-based early-fusion multi-modal generative models on the AI Seed-Vision Team. Mentors - Peng Wang and Linjie Yang.
+        - Built multimodal image / language models on the AI Seed-Vision Team, with a focus on diﬀusion-based frameworks. Acquired large-scale datasets (100M+ images / text) and trained diﬀusion models for simultaneous text-to-image, image-to-text, and visual understanding. Results submitted to CVPR 2025. Mentors Heng Wang, Peng Wang, and Linjie Yang.
         
     - title: Research Intern
       institution: Elucid
       year: 2024
       description:
-        - Investigated the usage of multimodal foundation models to aid in generating and augmenting arterial CT imagery and segmentations for improved fractional flow reserve (FFR) analysis and cardiologist report generation.
+        - Developed multimodal foundation models to aid in generating and augmenting arterial CT imagery and segmentations for improved fractional flow reserve (FFR) analysis and cardiologist report generation.
     
     - title: Research Intern
       institution: Bosch Center for Artificial Intelligence
       year: 2023
       description:
-        - Conducted research on robust training-free approaches to guided diffusion models using optimal control. Published at NeurIPS 2024. Mentor - Marcus Pereira.
+        - Conducted research on robust training-free approaches to guided diffusion models using optimal control. Published at NeurIPS 2024. Mentor Marcus Pereira.
 
     - title: Research Intern
       institution: Center for Computational Mathematics, Flatiron Institute
