@@ -29,7 +29,7 @@ announcements:
 
 <u>Applied</u>
 <ul>
-<li>NeurIPS 2024: Guided diffusion modeling through the lens of optimal control (in collaboration with Bosch AI)
+<li>NeurIPS 2024: Guided diffusion modeling through the lens of optimal control (in collaboration with Bosch AI).
 <li>NeurIPS 2024: Model alignment and unlearning in diffusion models.</li>
 <li>In Submission: Fast and efficient guided diffusion modeling for image reconstruction in the presence of measurement noise.</li>
 <li><b>In Submission</b>: Large-scale diffusion models for simultaneous text and image generation (in collaboration with Seed Team at TikTok / ByteDance).</li>
