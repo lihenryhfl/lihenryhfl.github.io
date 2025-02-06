@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-On the market for research positions for diffusion modeling. If you know of a suitable role, please reach out!
+On the market for research positions in generative modeling. If you know of a suitable role, please reach out!
