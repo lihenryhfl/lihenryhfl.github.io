@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "My work experience -- I specialize in diffusion model research, and have pre-trained medium-to-large scale models (&gt;2B parameters) on larger datasets (&gt;1T tokens / &gt;1B images).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -353,16 +353,14 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-one-spotlight-paper-accepted-to-iclr-2024",
+          title: 'One spotlight paper accepted to ICLR 2024!',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-two-papers-accepted-to-neurips-2024",
+          title: 'Two papers accepted to NeurIPS 2024!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-on-the-market-for-research-positions-for-diffusion-modeling-if-you-know-of-a-suitable-role-please-reach-out",
+          title: 'On the market for research positions for diffusion modeling. If you know of...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
