@@ -29,8 +29,8 @@ ninja.data = [{
           section: "News",},{id: "news-two-papers-accepted-to-neurips-2024",
           title: 'Two papers accepted to NeurIPS 2024!',
           description: "",
-          section: "News",},{id: "news-on-the-market-for-research-positions-for-diffusion-modeling-if-you-know-of-a-suitable-role-please-reach-out",
-          title: 'On the market for research positions for diffusion modeling. If you know of...',
+          section: "News",},{id: "news-on-the-market-for-research-positions-in-generative-modeling-if-you-know-of-a-suitable-role-please-reach-out",
+          title: 'On the market for research positions in generative modeling. If you know of...',
           description: "",
           section: "News",},{
         id: 'social-email',
