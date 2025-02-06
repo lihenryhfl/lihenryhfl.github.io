@@ -1,0 +1,16 @@
+- term: ICML 2023 Workshop           # Can contain spaces
+  definition: 1) Exponential weight averaging as damped harmonic motion 2) Non-normal Diffusion Models
+- term: NeurIPS 2024a
+  definition: Solving Inverse Problems via Diffusion Optimal Control
+  url: https://openreview.net/forum?id=wqLC4G1GN3
+- term: NeurIPS 2024b
+  definition: Boosting Alignment for Post-Unlearning Text-to-Image Generative Models
+  url: https://openreview.net/forum?id=93ktalFvnJ
+- term: ICLR 2024 Spotlight
+  definition: Likelihood Training of Cascaded Diffusion Models via Hierarchical Volume-preserving Maps
+  url: https://openreview.net/forum?id=sojpn00o8z
+- term: <b>In Submission</b>
+  definition: Dual Diffusion for Unified Image Generation and Understanding
+  url: https://zijieli-jlee.github.io/dualdiff.github.io/
+- term: In Submission
+  definition: Measurement Consistent Tweedie’s Solving Inverse Problems with the Conditional Posterior Mean (see "publications" for pre-print)

@@ -23,14 +23,14 @@ announcements:
 
 <u>Theoretical</u>
 <ul>
-<li>ICML 2023 Workshop: Non-normal diffusion processes and connecting EMA training of diffusion models to two-body Hookean systems.</li>
-<li><b>ICLR 2024 Spotlight</b>: Retaining likelihood estimation capabilities in multi-stage diffusion models (in collaboration with Meta AI).</li>
+<li>{% glossary ICML 2023 Workshop%}: Non-normal diffusion processes and connecting EMA training of diffusion models to two-body Hookean systems.</li>
+<li><b>{% glossary ICLR 2024 Spotlight%}</b>: Retaining likelihood estimation capabilities in multi-stage diffusion models (in collaboration with Meta AI).</li>
 </ul>
 
 <u>Applied</u>
 <ul>
-<li>NeurIPS 2024: Guided diffusion modeling through the lens of optimal control (in collaboration with Bosch AI).
-<li>NeurIPS 2024: Model alignment and unlearning in diffusion models.</li>
-<li>In Submission: Fast and efficient guided diffusion modeling for image reconstruction in the presence of measurement noise.</li>
-<li><b>In Submission</b>: Large-scale diffusion models for simultaneous text and image generation (in collaboration with Seed Team at TikTok / ByteDance).</li>
+<li>{% glossary NeurIPS 2024a%}: Guided diffusion modeling through the lens of optimal control (in collaboration with Bosch AI).
+<li>{% glossary NeurIPS 2024b%}: Model alignment and unlearning in diffusion models.</li>
+<li>{% glossary In Submission%}: Fast and efficient guided diffusion modeling for image reconstruction in the presence of measurement noise.</li>
+<li>{% glossary <b>In Submission</b>%}: Large-scale diffusion models for simultaneous text and image generation (in collaboration with Seed Team at TikTok / ByteDance).</li>
 <!-- </ul> -->
