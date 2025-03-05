@@ -31,6 +31,6 @@ announcements:
 <ul>
 <li>{% glossary NeurIPS 2024a%}: Guided diffusion modeling through the lens of optimal control (in collaboration with Bosch AI).
 <li>{% glossary NeurIPS 2024b%}: Model alignment and unlearning in diffusion models.</li>
+<li>{% glossary <b>CVPR 2025</b>%}: Large-scale diffusion models for simultaneous text and image generation (in collaboration with Seed Team at TikTok / ByteDance).</li>
 <li>{% glossary In Submission%}: Fast and efficient guided diffusion modeling for image reconstruction in the presence of measurement noise.</li>
-<li>{% glossary <b>In Submission</b>%}: Large-scale diffusion models for simultaneous text and image generation (in collaboration with Seed Team at TikTok / ByteDance).</li>
 <!-- </ul> -->
