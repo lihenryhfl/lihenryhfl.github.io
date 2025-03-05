@@ -23,14 +23,17 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-one-spotlight-paper-accepted-to-iclr-2024",
-          title: 'One spotlight paper accepted to ICLR 2024!',
+        },{id: "news-one-spotlight-paper-accepted-to-iclr",
+          title: 'One spotlight paper accepted to ICLR!',
           description: "",
-          section: "News",},{id: "news-two-papers-accepted-to-neurips-2024",
-          title: 'Two papers accepted to NeurIPS 2024!',
+          section: "News",},{id: "news-two-papers-accepted-to-neurips",
+          title: 'Two papers accepted to NeurIPS!',
           description: "",
           section: "News",},{id: "news-on-the-market-for-research-positions-in-generative-modeling-if-you-know-of-a-suitable-role-please-reach-out",
           title: 'On the market for research positions in generative modeling. If you know of...',
+          description: "",
+          section: "News",},{id: "news-one-paper-accepted-to-cvpr-2025",
+          title: 'One paper accepted to  CVPR 2025!!',
           description: "",
           section: "News",},{
         id: 'social-email',
