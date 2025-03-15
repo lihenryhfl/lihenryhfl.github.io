@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href='https://arxiv.org/abs/2501.00289'>One</a> paper accepted to  <a href='https://cvpr.thecvf.com'>CVPR 2025</a>!!
+<a href='https://arxiv.org/abs/2501.00289'>One</a> paper accepted to  <a href='https://cvpr.thecvf.com'>CVPR</a>!
