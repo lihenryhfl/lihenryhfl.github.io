@@ -32,8 +32,8 @@ ninja.data = [{
           section: "News",},{id: "news-on-the-market-for-research-positions-in-generative-modeling-if-you-know-of-a-suitable-role-please-reach-out",
           title: 'On the market for research positions in generative modeling. If you know of...',
           description: "",
-          section: "News",},{id: "news-one-paper-accepted-to-cvpr-2025",
-          title: 'One paper accepted to  CVPR 2025!!',
+          section: "News",},{id: "news-one-paper-accepted-to-cvpr",
+          title: 'One paper accepted to  CVPR!',
           description: "",
           section: "News",},{
         id: 'social-email',
