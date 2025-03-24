@@ -17,10 +17,16 @@
   type: time_table
   contents:
     - title: Research Intern
-      institution: ByteDance
+      institution: Google DeepMind
+      year: 2025
+      description:
+        - Designing foundation models for audio generation with applications to sound understanding. Mentors Robin Scheibler, John Hershey, Arnaud Doucet.
+
+    - title: Research Intern
+      institution: ByteDance / TikTok Seed Foundation Team
       year: 2024
       description:
-        - Built multimodal image / language models on the AI Seed-Vision Team, with a focus on diﬀusion-based frameworks. Acquired large-scale datasets (100M+ images / text) and trained diﬀusion models for simultaneous text-to-image, image-to-text, and visual understanding. Results submitted to CVPR 2025. Mentors Heng Wang, Peng Wang, and Linjie Yang.
+        - Built multimodal image / language models on the AI Seed-Vision Team, with a focus on diﬀusion-based frameworks. Acquired large-scale datasets (100M+ images / text) and trained diﬀusion models for simultaneous text-to-image, image-to-text, and visual understanding. Results published at CVPR 2025. Mentors Heng Wang, Peng Wang, and Linjie Yang.
         
     - title: Research Intern
       institution: Elucid
