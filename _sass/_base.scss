@@ -1342,3 +1342,10 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+.post-header {
+  .desc {
+    font-size: 1.05rem;
+  }
+}
+

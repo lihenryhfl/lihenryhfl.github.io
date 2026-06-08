@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle: Yale PhD student studying the guidance and fine-tuning of <a href='#'>diffusion models</a>.
+subtitle: Generative $\{\text{Audio}, \text{Text}, \text{Image}\}$ Researcher
 
 profile:
   align: right
@@ -19,18 +19,6 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-<u><b>About Me</b></u>: I study the <b>theory</b>, <b>guidance</b> and <b>fine-tuning</b> of diffusion models. I have previously interned with the Seed Foundation Team at <a href='https://team.doubao.com/en/'>TikTok / ByteDance</a>, the Center for Artificial Intelligence at <a href='https://www.bosch-ai.com'>Bosch</a>, and the Center for Computational Mathematics at the <a href='https://www.simonsfoundation.org/flatiron/center-for-computational-mathematics/'>Flatiron Institute</a>. I have published both <i>theoretical</i> and <i>applied</i> work on diffusion models.
+I am a **Research Scientist at Google**, focusing on generative multimodal research. My research interests center around the interplay between $\\{\text{generation}, \text{understanding}, \text{augmentation}\\} \times \\{\text{audio}, \text{text}, \text{image}\\}$ modalities, specifically leveraging large-scale diffusion and flow models. 
 
-<u>Theoretical</u>
-<ul>
-<li>{% glossary ICML 2023 Workshop%}: Non-normal diffusion processes and connecting EMA training of diffusion models to two-body Hookean systems.</li>
-<li><b>{% glossary ICLR 2024 Spotlight%}</b>: Retaining likelihood estimation capabilities in multi-stage diffusion models (in collaboration with Meta AI).</li>
-</ul>
-
-<u>Applied</u>
-<ul>
-<li>{% glossary NeurIPS 2024a%}: Guided diffusion modeling through the lens of optimal control (in collaboration with Bosch AI).
-<li>{% glossary NeurIPS 2024b%}: Model alignment and unlearning in diffusion models.</li>
-<li>{% glossary <b>CVPR 2025</b>%}: Large-scale diffusion models for simultaneous text and image generation (in collaboration with Seed Team at TikTok / ByteDance).</li>
-<li>{% glossary In Submission%}: Fast and efficient guided diffusion modeling for image reconstruction in the presence of severe measurement noise.</li>
-<!-- </ul> -->
+Previously, I was a Ph.D. student at Yale University. I have also spent time as a Student Researcher at Google DeepMind, and as a Research Intern with the Seed Vision Team at TikTok / ByteDance, the Bosch Center for Artificial Intelligence, and the Flatiron Institute.

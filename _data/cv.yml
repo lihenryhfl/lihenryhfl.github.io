@@ -16,11 +16,17 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Scientist
+      institution: Google
+      year: 2026 - Present
+      description:
+        - Continuing work on generative multimodal models for audio.
+
     - title: Student Researcher
       institution: Google DeepMind
       year: 2025
       description:
-        - Designing foundation models for audio generation with applications to sound understanding. Mentors John Hershey.
+        - Designing foundation models for generative sound separation. Mentors John Hershey and Arnaud Doucet.
 
     - title: Research Intern
       institution: ByteDance / TikTok Seed Foundation Team

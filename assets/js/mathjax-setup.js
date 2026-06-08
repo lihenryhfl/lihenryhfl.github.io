@@ -6,6 +6,9 @@ window.MathJax = {
       ["\\(", "\\)"],
     ],
   },
+  chtml: {
+    mtextInheritFont: true
+  },
   options: {
     renderActions: {
       addCss: [
@@ -15,6 +18,7 @@ window.MathJax = {
           style.innerHTML = `
           .mjx-container {
             color: inherit;
+            font-size: 0.9em !important;
           }
         `;
           document.head.appendChild(style);
