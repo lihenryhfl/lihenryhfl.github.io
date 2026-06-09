@@ -24,16 +24,25 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "news-one-spotlight-paper-accepted-to-iclr",
-          title: 'One spotlight paper accepted to ICLR!',
+          title: 'One spotlight paper accepted to ICLR.',
           description: "",
           section: "News",},{id: "news-two-papers-accepted-to-neurips",
-          title: 'Two papers accepted to NeurIPS!',
-          description: "",
-          section: "News",},{id: "news-on-the-market-for-research-positions-in-generative-modeling-if-you-know-of-a-suitable-role-please-reach-out",
-          title: 'On the market for research positions in generative modeling. If you know of...',
+          title: 'Two papers accepted to NeurIPS.',
           description: "",
           section: "News",},{id: "news-one-paper-accepted-to-cvpr",
-          title: 'One paper accepted to  CVPR!',
+          title: 'One paper accepted to CVPR.',
+          description: "",
+          section: "News",},{id: "news-one-paper-accepted-to-waspaa",
+          title: 'One paper accepted to WASPAA.',
+          description: "",
+          section: "News",},{id: "news-started-as-a-research-scientist-at-google",
+          title: 'Started as a Research Scientist at Google.',
+          description: "",
+          section: "News",},{id: "news-one-paper-accepted-to-aistats",
+          title: 'One paper accepted to AISTATS.',
+          description: "",
+          section: "News",},{id: "news-one-paper-accepted-to-icml",
+          title: 'One paper accepted to ICML.',
           description: "",
           section: "News",},{
         id: 'social-email',
@@ -55,6 +64,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=_DUDkaQAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/lowhankmatrix", "_blank");
         },
       },{
       id: 'light-theme',
