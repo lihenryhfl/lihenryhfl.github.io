@@ -6,12 +6,12 @@
       # year: 2025 (expected)
       description:
         - Advised by Ronald Coifman and Yuval Kluger.
-        
+
     - title: B.S. in Computer Science and Mathematics
       institution: Yale University
       # year: 2017
       #description:
-        #- Description 1.
+      #- Description 1.
 
 - title: Experience
   type: time_table
@@ -33,13 +33,13 @@
       year: 2024
       description:
         - Built multimodal image / language models on the AI Seed-Vision Team, with a focus on diﬀusion-based frameworks. Acquired large-scale datasets (100M+ images / text) and trained diﬀusion models for simultaneous text-to-image, image-to-text, and visual understanding. Results published at CVPR 2025. Mentors Heng Wang, Peng Wang, and Linjie Yang.
-        
+
     - title: Research Intern
       institution: Elucid
       year: 2024
       description:
         - Developed multimodal foundation models to aid in generating and augmenting arterial CT imagery and segmentations for improved fractional flow reserve (FFR) analysis and cardiologist report generation.
-    
+
     - title: Research Intern
       institution: Bosch Center for Artificial Intelligence
       year: 2023
@@ -57,7 +57,6 @@
       year: 2016
       description:
         - Modified machine learning module (an n-gram Markov model) in FireOS to reduce memory usage by ~2x with no significant reduction in prediction quality
-
 #- title: Reviewing Responsibilities
 #  type: time_table
 #  contents:
@@ -69,38 +68,37 @@
 #    - title: TMLR
 #      year: Rolling
 
-
 #- title: Open Source Projects
-  #type: time_table
-  #contents:
-    #- title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      #year: 2015-now
-      #description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+#type: time_table
+#contents:
+#- title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#year: 2015-now
+#description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 #- title: Honors and Awards
-  #type: time_table
-  #contents:
-    #- year: 1921
-      #items: 
-        #- Nobel Prize in Physics 
-        #- Matteucci Medal
-    #- year: 2029
-      #items: 
-        #- Max Planck Medal
+#type: time_table
+#contents:
+#- year: 1921
+#items:
+#- Nobel Prize in Physics
+#- Matteucci Medal
+#- year: 2029
+#items:
+#- Max Planck Medal
 
 #- title: Academic Interests
-  #type: nested_list
-  #contents:
-    #- title: Topic 1.
-      #items: 
-        #- Description 1.
-        #- Description 2.
-    #- title: Topic 2.
-      #items:
-        #- Description 1.
-        #- Description 2.
+#type: nested_list
+#contents:
+#- title: Topic 1.
+#items:
+#- Description 1.
+#- Description 2.
+#- title: Topic 2.
+#items:
+#- Description 1.
+#- Description 2.
 
 #- title: Other Interests
-  #type: list
-  #contents:
-    #- <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#type: list
+#contents:
+#- <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

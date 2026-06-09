@@ -24,7 +24,6 @@
   bottom: 100%;
   left: 50%;
   margin-left: -80px; /* Use half of the width to center the tooltip */
-
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
@@ -34,7 +33,7 @@
 
 /* Style the source link (if there is one provided in the glossary entry). */
 .jekyll-glossary-source-link:before {
-  content: "[source]";  // "(reference)", "<link>" or whatever you want.
+  content: "[source]"; /* "(reference)", "<link>" or whatever you want. */
 }
 
 /* Arrow created with borders. */

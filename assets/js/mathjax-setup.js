@@ -7,7 +7,7 @@ window.MathJax = {
     ],
   },
   chtml: {
-    mtextInheritFont: true
+    mtextInheritFont: true,
   },
   options: {
     renderActions: {

@@ -1,4 +1,4 @@
-- term: ICML 2023 Workshop           # Can contain spaces
+- term: ICML 2023 Workshop # Can contain spaces
   definition: 1) Exponential weight averaging as damped harmonic motion 2) Non-normal Diffusion Models
 - term: NeurIPS 2024a
   definition: Solving Inverse Problems via Diffusion Optimal Control
