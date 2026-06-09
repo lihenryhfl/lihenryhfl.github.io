@@ -19,6 +19,6 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am a **Research Scientist at Google**, focusing on generative multimodal research. My research interests center around the interplay between $\\{\text{generation}, \text{understanding}, \text{augmentation}\\} \times \\{\text{audio}, \text{text}, \text{image}\\}$ modalities, specifically leveraging large-scale diffusion and flow models.
+I am a **Research Scientist at Google**, focusing on generative multimodal research. My research interests center around the interplay between $\\{\text{generation}, \text{understanding}, \text{guidance}\\} \times \\{\text{audio}, \text{text}, \text{image}\\}$ modalities, specifically leveraging large-scale diffusion and flow models.
 
 Previously, I was a Ph.D. student at Yale University. I have also spent time as a Student Researcher at Google DeepMind, and as a Research Intern with the Seed Vision Team at TikTok / ByteDance, the Bosch Center for Artificial Intelligence, and the Flatiron Institute.
